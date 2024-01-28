@@ -1,4 +1,4 @@
-# Sentiment Analysis of Covid-19 Vaccination Tweets
+# Book Recommendation System
 
 Book recommender system using cosine similarity and popularity based recommendation.
 
