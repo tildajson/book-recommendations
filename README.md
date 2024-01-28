@@ -5,3 +5,7 @@ Book recommender system using cosine similarity and popularity based recommendat
 ## Tech Stack
 
 + Jupyter Notebook
++ Pandas
++ Numpy
++ Sklearn
++ Matplotlib
